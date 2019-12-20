@@ -1,0 +1,49 @@
+
+	[
+		{
+			"index":0,
+			"health":100,
+			"stamina":100, 
+			"attack damage":8, 
+			"weapon":0,
+			"helmet":0,
+			"shirt":0,
+			"imgsrc":"Gladiators/movingEnemy.png"
+		},
+
+
+
+
+		{
+			"index":1,
+			"health":110,
+			"stamina":110,
+			"attack damage":10,
+			"weapon":1,
+			"helmet":1,
+			"shirt":1,
+			"imgsrc":"Gladiators/movingEnemy2.png"
+		}  ,
+		
+		{
+			"index":2,
+			"health":120,
+			"stamina":120,
+			"attack damage":12,
+			"weapon":2,
+			"helmet":2,
+			"shirt":2,
+			"imgsrc":"Gladiators/movingEnemy3.png"
+		}  ,
+		{
+			"index":3,
+			"health":150,
+			"stamina":150,
+			"attack damage":15,
+			"weapon":1,
+			"helmet":3,
+			"shirt":0,
+			"imgsrc":"Gladiators/movingEnemy3.png"
+		}  
+
+	]
