@@ -7,7 +7,7 @@ Worked on it at the start of 2017, 3 years ago, when I was 14 and just learned j
 Inspired by the flash game [Swords and Sandals 2](http://swordandsandals.top/swords-and-sandals-2-full-version/) which my brother and I used to love when we were young.
 
 
-Download it and play! It's really cool and actually fun.
+Download it and play! It's really cool and actually fun. ([Java](https://www.java.com/en/download/win10.jsp) required)
 1. [Download the repository](https://github.com/UriahShaulMandel/Gladiators/archive/master.zip)
 2. Extract the folder
 3. Double click `Gladiators.jar`, make sure it's in the same folder, or it won't be opened!
